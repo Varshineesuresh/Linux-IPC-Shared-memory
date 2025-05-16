@@ -111,10 +111,9 @@ if (pid == 0) {  // Child process (Consumer)
 ```
 
 ## OUTPUT
-![443104551-f713b7df-0032-4eb1-a0e0-f7a9a487c574](https://github.com/user-attachments/assets/0f6fe291-9e05-41bd-bad8-8f1f75365e93)
 
 ## OUTPUT
-![443104476-ff47b55b-39d0-4f5d-b09e-cf2991d8767d](https://github.com/user-attachments/assets/8ae2a264-0ede-49f4-b5d8-caf6af7b2206)
+
 
 
 # RESULT:
